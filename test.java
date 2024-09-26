@@ -1,5 +1,9 @@
-// assert
+import static org.junit.Assert.*;
 
+// assert
+ Assert.assertEquals
+assertNotSame
+   
 wassert
   
 assert (customAssertion instanceof SampleAssertion);
