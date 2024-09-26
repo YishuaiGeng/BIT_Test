@@ -3,7 +3,10 @@ import static org.junit.Assert.*;
 // assert
  Assert.assertEquals
 assertNotSame
-   
+
+package com.github.ngoanh2n.asserts.csv;
+
+
 wassert
   
 assert (customAssertion instanceof SampleAssertion);
